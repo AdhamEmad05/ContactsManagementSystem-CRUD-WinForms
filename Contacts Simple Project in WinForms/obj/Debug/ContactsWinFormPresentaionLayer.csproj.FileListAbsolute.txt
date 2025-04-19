@@ -1,0 +1,32 @@
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\bin\Debug\ContactsWinFormPresentaionLayer.exe.config
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\bin\Debug\ContactsWinFormPresentaionLayer.exe
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\bin\Debug\ContactsWinFormPresentaionLayer.pdb
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.csproj.AssemblyReference.cache
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.Form1.resources
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.Properties.Resources.resources
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.csproj.GenerateResource.cache
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.exe
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.pdb
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.frmAddNewContact.resources
+C:\Users\Adham\source\repos\ContactsWinFormPresentaionLayer\obj\Debug\ContactsWinFormPresentaionLayer.csproj.CopyComplete
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\bin\Debug\ContactsWinFormPresentaionLayer.exe.config
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\bin\Debug\ContactsWinFormPresentaionLayer.exe
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\bin\Debug\ContactsWinFormPresentaionLayer.pdb
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\bin\Debug\ContactsBusinessLayer.dll
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\bin\Debug\ContactsDataAccessLayer.dll
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\bin\Debug\ContactsBusinessLayer.pdb
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\bin\Debug\ContactsDataAccessLayer.pdb
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.csproj.AssemblyReference.cache
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.Form1.resources
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.frmAddNewContact.resources
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.Properties.Resources.resources
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.csproj.GenerateResource.cache
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.csproj.CoreCompileInputs.cache
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.csproj.CopyComplete
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.exe
+G:\Contacts-CRUD-WinForms\Contacts Simple Project in WinForms\obj\Debug\ContactsWinFormPresentaionLayer.pdb
